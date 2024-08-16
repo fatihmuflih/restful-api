@@ -1,2 +1,2 @@
 # restful-api
-Documentation for creating a RESTful API project using Hapi Framework.
+Documentation for creating a RESTful API project using Hapi framework.
